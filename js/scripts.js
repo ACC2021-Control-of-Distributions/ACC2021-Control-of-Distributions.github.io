@@ -102,7 +102,7 @@ jQuery(function ($) {
                 icon     : $marker_url
             });
         }
-    }());
+    }()); 
 
 // ===== Scroll to Top ==== 
 $(window).scroll(function() {
