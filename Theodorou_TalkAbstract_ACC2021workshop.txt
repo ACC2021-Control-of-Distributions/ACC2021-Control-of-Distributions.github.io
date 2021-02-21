@@ -1,0 +1,1 @@
+In this talk, I will present scalable algorithms for distributional control using different representations of uncertainty. The proposed algorithms capture aleotoric and epistemic uncertainty and are scalable to high dimensional optimization problems. Applications span the areas of autonomy, robotics and applied physics. 
